@@ -68,15 +68,15 @@ languages:
       topbar:
         - weight: 1
           name: GitHub
-          url: 'https://github.com/brainhackMTL/school/'
+          url: '#'
           pre: <i class='fab fa-2x fa-github'></i>
         - weight: 3
           name: Twitter
-          url: 'http://twitter.com/brainhackMTL'
+          url: '#'
           pre: <i class='fab fa-2x fa-twitter'></i>
         - weight: 4
           name: Email
-          url: 'mailto:emilie.dessureault@criugm.qc.ca'
+          url: '#'
           pre: <i class='fas fa-2x fa-envelope'></i>
 
     params:
